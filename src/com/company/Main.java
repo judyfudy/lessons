@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Main {
     static int age = 0;
     int number = 0;
+    int f = 0;
 
     public static void main(String[] args) {
         Person p = new Person();
